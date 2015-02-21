@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Blog do Gabs
 tagline:             'Aprendizados de um agressor'
-description:         'Um rascunho de tudo o que aprendo na Agrid'
+description:         'Um rascunho de tudo o que aprendi na Agrid'
 url:                 http://givigier.com
 baseurl:             /
 paginate:            5
