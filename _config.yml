@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Blog do Gabs
-tagline:             'Aprendizados de um agressor'
-description:         'Um rascunho de tudo o que venho aprendendo na Agrid'
+title:               Blog do Givigier
+tagline:             ''
+description:         ''
 url:                 http://givigier.com
 baseurl:             /
 paginate:            5
