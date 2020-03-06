@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/givigier/givigier.github.io.git
+	branch = master
