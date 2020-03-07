@@ -21,7 +21,8 @@ a:link
 }
 body
 {
-    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+
+    font-family: 'Quicksand', sans-serif;
     font-size: 20px;
     font-weight: 400;
 
@@ -144,7 +145,7 @@ div.content
 }
 .intro
 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Quicksand', serif;
     font-weight: 200;
     color: #777;
 }
@@ -227,11 +228,13 @@ section.meta {
 .social {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-size: 25px;
 }
 .social,
 .social a
 {
     color: #526d7a;
+    padding: 0 2px 0 2px;
 }
 .title
 {
